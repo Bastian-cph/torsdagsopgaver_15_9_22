@@ -3,7 +3,7 @@ int age= 22;
 void setup()
 {
 printEmpty();
-printString("wallah");
+printString("HADER FARUM");
 nameAge("Bastian",22);
 }
 void printEmpty()
@@ -16,5 +16,5 @@ void printString(String B)
 }
 void nameAge(String name, int age)
 {
-  println("My name is",name,", I am",age,"years old");
+  println("My name is", name+ ", I am", age, "years old");
 }

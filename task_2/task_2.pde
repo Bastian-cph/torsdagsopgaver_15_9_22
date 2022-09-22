@@ -50,7 +50,7 @@ boolean firstChar(String fC)
     return true;
   }
   else 
-  {
+ {
     return false;
   }
   
